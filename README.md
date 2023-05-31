@@ -17,3 +17,14 @@ When a user submits a question, the application passes the question and chat his
 The user interface consists of two HTML templates: index.html and result.html. The index.html template provides a form for uploading PDF files and submitting questions. The result.html template displays the generated answer to the user.
 
 To run the application, the Flask development server is started, and the application listens for incoming requests. Users can access the application through a web browser and interact with the provided interface.
+
+##how to run:
+###clone the repo: 
+```
+git clone https://github.com/ananya-prashanth/PDF-question-answering-NLP.git
+```
+###running the Flask app:
+```
+python app.py
+```
+
