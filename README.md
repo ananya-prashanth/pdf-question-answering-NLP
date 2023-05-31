@@ -1,5 +1,5 @@
 # pdf-question-answering-NLP
-This project leverages LangChain, Agent and OpenAI to input a PDF and when a question is asked, based on the context of the provided PDF, it gives you the corresponding answer.
+This project leverages LangChain, ConversationalRetrievalChain and OpenAI to input a PDF and when a question is asked, based on the context of the provided PDF, it gives you the corresponding answer.
 ![image](https://github.com/ananya-prashanth/pdf-question-answering-NLP/assets/87328350/f6ba71ee-f239-45c4-b591-f090f4fb923c)
 
 The goal of this project is to create a web application that allows users to upload PDF files and ask questions related to the content of those files. The application utilizes the LangChain library, which is a Python-based framework for natural language processing tasks.
