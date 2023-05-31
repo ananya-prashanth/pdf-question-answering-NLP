@@ -25,6 +25,7 @@ git clone https://github.com/ananya-prashanth/PDF-question-answering-NLP.git
 ```
 ###running the Flask app:
 ```
+pip install -r requirements.txt
 python app.py
 ```
 
