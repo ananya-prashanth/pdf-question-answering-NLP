@@ -18,12 +18,12 @@ The user interface consists of two HTML templates: index.html and result.html. T
 
 To run the application, the Flask development server is started, and the application listens for incoming requests. Users can access the application through a web browser and interact with the provided interface.
 
-##how to run:
-###clone the repo: 
+## how to run:
+### clone the repo: 
 ```
 git clone https://github.com/ananya-prashanth/PDF-question-answering-NLP.git
 ```
-###running the Flask app:
+### running the Flask app:
 ```
 pip install -r requirements.txt
 python app.py
