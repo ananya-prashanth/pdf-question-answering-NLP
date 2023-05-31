@@ -7,7 +7,7 @@ from langchain.vectorstores import Chroma
 from langchain.llms import OpenAI
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "your-API-key"
 
 app = Flask(__name__)
 
